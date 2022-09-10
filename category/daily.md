@@ -2,6 +2,6 @@
 
 layout: category
 
-title: 일상
+title: daily
 
 ---

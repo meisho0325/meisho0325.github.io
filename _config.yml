@@ -12,10 +12,6 @@ facebook_username:
 instagram_username:  
 linkedin_username:
 
-# for comments ( we got Disqus and Hyvor Commenting uncomment the one you want to use)
-
-disqus_shorname: meisho0325-github-io.disqus.com
-
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
