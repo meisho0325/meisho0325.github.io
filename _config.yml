@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              meisho0325@protonmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            ""
+baseurl:            #
 url:                "https://meisho0325.github.io"
 
 # Social Profiles
